@@ -1,2 +1,2 @@
 # Networking
-Implementation of a simple clients-server app
+An implementation of a simple clients-server app
